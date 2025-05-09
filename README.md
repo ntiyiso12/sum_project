@@ -20,7 +20,7 @@ This project is a simple 3-tier Java EE web application that allows users to inp
 - **Schema Name:** `sum_project`
 - **Table:** `sum_project`
 ```sql
-CREATE TABLE sums (
+CREATE TABLE sum_project (
     id INT AUTO_INCREMENT PRIMARY KEY,
     num1 INT NOT NULL,
     num2 INT NOT NULL,
