@@ -18,7 +18,7 @@ This project is a simple 3-tier Java EE web application that allows users to inp
 
 ## 🗃️ Database
 - **Schema Name:** `sum_project`
-- **Table:** `sums`
+- **Table:** `sum_project`
 ```sql
 CREATE TABLE sums (
     id INT AUTO_INCREMENT PRIMARY KEY,
